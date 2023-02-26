@@ -33,70 +33,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMDrbTP.jpg",
+      "title": "Guide For Sigma 1",
+        "text_Content": "Sigma is a powerful tool in statistics that helps in making predictions and making sense of data. It is widely used in the fields of finance, engineering, social sciences, and many others. Sigma is a statistical term that refers to the standard deviation of a population. In this guide, we will explore what Sigma is, its different types, and how it is used in statistical analysis.",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMDrPEb.jpg",
+      "title": "Guide For Sigma 2",
+        "text_Content": "Sigma is a statistical measure of the variability of a population. It is usually represented by the Greek letter σ (sigma). The higher the Sigma value, the greater the variability of the data, and vice versa. The Sigma value is calculated using the formula",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMDrrQe.jpg",
+      "title": "Guide For Sigma 3",
+        "text_Content": "The standard deviation is a measure of the spread of data in a population. It tells us how far the observations are from the mean. A small standard deviation indicates that the data is tightly clustered around the mean, while a large standard deviation indicates that the data is more spread out.",
+        "text_Content_1": "."
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMDrZvV.jpg",
+      "title": "Guide For Sigma 4",
+        "text_Content": "Process Sigma is used to measure the quality of a manufacturing or production process. It is a measure of how well a process is performing relative to its potential. A process Sigma of six or above is considered world-class and indicates that the process is highly stable and predictable.",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMDrmj1.jpg",
+      "title": "Guide For Sigma 5",
+        "text_Content": "For example, if there were ten opportunities for a defect to occur and two defects were found, the Process Sigma would be",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMDrpZF.jpg",
+      "title": "Guide For Sigma 6",
+        "text_Content": "Product Sigma is used to measure the quality of a product. It is a measure of how well a product is meeting customer requirements. A product Sigma of six or above is considered world-class and indicates that the product is highly reliable and consistent.",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMD4HGa.jpg",
+      "title": "Guide For Sigma 7",
+        "text_Content": "Sigma is used in statistical analysis to determine the variability of a population and to make predictions about future outcomes. It is used in a wide range of applications, including finance, engineering, social sciences, and many others.",
+        "text_Content_1": "."
 
 
 
